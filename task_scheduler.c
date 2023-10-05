@@ -1,4 +1,4 @@
-1#include <stdio.h>
+#include <stdio.h>
 #include <string.h>
 
 #define MAX_TASKS 100
